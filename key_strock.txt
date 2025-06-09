@@ -1,1 +1,3 @@
- delete  delete  delete  r  cmd  enter  \x01  ctrl_l  delete  r  r  cmd  t  e  down  enter  cmd  %  shift  t  e  m  p  %  shift  enter  \x01  ctrl_l  delete 
+sample output how it works.
+
+delete  delete  delete  r  cmd  enter  \x01  ctrl_l  delete  r  r  cmd  t  e  down  enter  cmd  %  shift  t  e  m  p  %  shift  enter  \x01  ctrl_l  delete 
